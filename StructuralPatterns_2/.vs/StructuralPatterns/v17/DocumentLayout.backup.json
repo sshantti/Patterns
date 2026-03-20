@@ -1,0 +1,263 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mirof\\Downloads\\StructuralPatterns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F00971-67EF-478D-B0FD-9473874D043B}|StructuralPatterns\\StructuralPatterns.csproj|c:\\users\\mirof\\downloads\\structuralpatterns\\structuralpatterns\\adapter\\inewsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F00971-67EF-478D-B0FD-9473874D043B}|StructuralPatterns\\StructuralPatterns.csproj|solutionrelative:structuralpatterns\\adapter\\inewsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F00971-67EF-478D-B0FD-9473874D043B}|StructuralPatterns\\StructuralPatterns.csproj|c:\\users\\mirof\\downloads\\structuralpatterns\\structuralpatterns\\adapter\\oldsearchsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F00971-67EF-478D-B0FD-9473874D043B}|StructuralPatterns\\StructuralPatterns.csproj|solutionrelative:structuralpatterns\\adapter\\oldsearchsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F00971-67EF-478D-B0FD-9473874D043B}|StructuralPatterns\\StructuralPatterns.csproj|c:\\users\\mirof\\downloads\\structuralpatterns\\structuralpatterns\\adapter\\searchadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F00971-67EF-478D-B0FD-9473874D043B}|StructuralPatterns\\StructuralPatterns.csproj|solutionrelative:structuralpatterns\\adapter\\searchadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F00971-67EF-478D-B0FD-9473874D043B}|StructuralPatterns\\StructuralPatterns.csproj|c:\\users\\mirof\\downloads\\structuralpatterns\\structuralpatterns\\composite\\bookcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F00971-67EF-478D-B0FD-9473874D043B}|StructuralPatterns\\StructuralPatterns.csproj|solutionrelative:structuralpatterns\\composite\\bookcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F00971-67EF-478D-B0FD-9473874D043B}|StructuralPatterns\\StructuralPatterns.csproj|c:\\users\\mirof\\downloads\\structuralpatterns\\structuralpatterns\\composite\\bookitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F00971-67EF-478D-B0FD-9473874D043B}|StructuralPatterns\\StructuralPatterns.csproj|solutionrelative:structuralpatterns\\composite\\bookitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F00971-67EF-478D-B0FD-9473874D043B}|StructuralPatterns\\StructuralPatterns.csproj|c:\\users\\mirof\\downloads\\structuralpatterns\\structuralpatterns\\composite\\librarycomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F00971-67EF-478D-B0FD-9473874D043B}|StructuralPatterns\\StructuralPatterns.csproj|solutionrelative:structuralpatterns\\composite\\librarycomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F00971-67EF-478D-B0FD-9473874D043B}|StructuralPatterns\\StructuralPatterns.csproj|c:\\users\\mirof\\downloads\\structuralpatterns\\structuralpatterns\\decorator\\bookdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F00971-67EF-478D-B0FD-9473874D043B}|StructuralPatterns\\StructuralPatterns.csproj|solutionrelative:structuralpatterns\\decorator\\bookdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F00971-67EF-478D-B0FD-9473874D043B}|StructuralPatterns\\StructuralPatterns.csproj|c:\\users\\mirof\\downloads\\structuralpatterns\\structuralpatterns\\decorator\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F00971-67EF-478D-B0FD-9473874D043B}|StructuralPatterns\\StructuralPatterns.csproj|solutionrelative:structuralpatterns\\decorator\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F00971-67EF-478D-B0FD-9473874D043B}|StructuralPatterns\\StructuralPatterns.csproj|c:\\users\\mirof\\downloads\\structuralpatterns\\structuralpatterns\\decorator\\ratingdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F00971-67EF-478D-B0FD-9473874D043B}|StructuralPatterns\\StructuralPatterns.csproj|solutionrelative:structuralpatterns\\decorator\\ratingdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F00971-67EF-478D-B0FD-9473874D043B}|StructuralPatterns\\StructuralPatterns.csproj|c:\\users\\mirof\\downloads\\structuralpatterns\\structuralpatterns\\facade\\libraryfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F00971-67EF-478D-B0FD-9473874D043B}|StructuralPatterns\\StructuralPatterns.csproj|solutionrelative:structuralpatterns\\facade\\libraryfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F00971-67EF-478D-B0FD-9473874D043B}|StructuralPatterns\\StructuralPatterns.csproj|c:\\users\\mirof\\downloads\\structuralpatterns\\structuralpatterns\\flyweight\\publisherflyweight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F00971-67EF-478D-B0FD-9473874D043B}|StructuralPatterns\\StructuralPatterns.csproj|solutionrelative:structuralpatterns\\flyweight\\publisherflyweight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F00971-67EF-478D-B0FD-9473874D043B}|StructuralPatterns\\StructuralPatterns.csproj|c:\\users\\mirof\\downloads\\structuralpatterns\\structuralpatterns\\proxy\\libraryadminproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F00971-67EF-478D-B0FD-9473874D043B}|StructuralPatterns\\StructuralPatterns.csproj|solutionrelative:structuralpatterns\\proxy\\libraryadminproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F00971-67EF-478D-B0FD-9473874D043B}|StructuralPatterns\\StructuralPatterns.csproj|c:\\users\\mirof\\downloads\\structuralpatterns\\structuralpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F00971-67EF-478D-B0FD-9473874D043B}|StructuralPatterns\\StructuralPatterns.csproj|solutionrelative:structuralpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F00971-67EF-478D-B0FD-9473874D043B}|StructuralPatterns\\StructuralPatterns.csproj|c:\\users\\mirof\\downloads\\structuralpatterns\\structuralpatterns\\structuralpatterns.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2F00971-67EF-478D-B0FD-9473874D043B}|StructuralPatterns\\StructuralPatterns.csproj|solutionrelative:structuralpatterns\\structuralpatterns.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LibraryComponent.cs",
+              "DocumentMoniker": "C:\\Users\\mirof\\Downloads\\StructuralPatterns\\StructuralPatterns\\Composite\\LibraryComponent.cs",
+              "RelativeDocumentMoniker": "StructuralPatterns\\Composite\\LibraryComponent.cs",
+              "ToolTip": "C:\\Users\\mirof\\Downloads\\StructuralPatterns\\StructuralPatterns\\Composite\\LibraryComponent.cs",
+              "RelativeToolTip": "StructuralPatterns\\Composite\\LibraryComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T13:02:32.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\mirof\\Downloads\\StructuralPatterns\\StructuralPatterns\\Decorator\\BookDecorator.cs",
+              "RelativeDocumentMoniker": "StructuralPatterns\\Decorator\\BookDecorator.cs",
+              "ToolTip": "C:\\Users\\mirof\\Downloads\\StructuralPatterns\\StructuralPatterns\\Decorator\\BookDecorator.cs",
+              "RelativeToolTip": "StructuralPatterns\\Decorator\\BookDecorator.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T12:50:11.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBook.cs",
+              "DocumentMoniker": "C:\\Users\\mirof\\Downloads\\StructuralPatterns\\StructuralPatterns\\Decorator\\IBook.cs",
+              "RelativeDocumentMoniker": "StructuralPatterns\\Decorator\\IBook.cs",
+              "ToolTip": "C:\\Users\\mirof\\Downloads\\StructuralPatterns\\StructuralPatterns\\Decorator\\IBook.cs",
+              "RelativeToolTip": "StructuralPatterns\\Decorator\\IBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T12:49:52.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RatingDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\mirof\\Downloads\\StructuralPatterns\\StructuralPatterns\\Decorator\\RatingDecorator.cs",
+              "RelativeDocumentMoniker": "StructuralPatterns\\Decorator\\RatingDecorator.cs",
+              "ToolTip": "C:\\Users\\mirof\\Downloads\\StructuralPatterns\\StructuralPatterns\\Decorator\\RatingDecorator.cs",
+              "RelativeToolTip": "StructuralPatterns\\Decorator\\RatingDecorator.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T02:07:35.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LibraryFacade.cs",
+              "DocumentMoniker": "C:\\Users\\mirof\\Downloads\\StructuralPatterns\\StructuralPatterns\\Facade\\LibraryFacade.cs",
+              "RelativeDocumentMoniker": "StructuralPatterns\\Facade\\LibraryFacade.cs",
+              "ToolTip": "C:\\Users\\mirof\\Downloads\\StructuralPatterns\\StructuralPatterns\\Facade\\LibraryFacade.cs",
+              "RelativeToolTip": "StructuralPatterns\\Facade\\LibraryFacade.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwCMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T12:48:21.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookItem.cs",
+              "DocumentMoniker": "C:\\Users\\mirof\\Downloads\\StructuralPatterns\\StructuralPatterns\\Composite\\BookItem.cs",
+              "RelativeDocumentMoniker": "StructuralPatterns\\Composite\\BookItem.cs",
+              "ToolTip": "C:\\Users\\mirof\\Downloads\\StructuralPatterns\\StructuralPatterns\\Composite\\BookItem.cs",
+              "RelativeToolTip": "StructuralPatterns\\Composite\\BookItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T13:02:36.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookCategory.cs",
+              "DocumentMoniker": "C:\\Users\\mirof\\Downloads\\StructuralPatterns\\StructuralPatterns\\Composite\\BookCategory.cs",
+              "RelativeDocumentMoniker": "StructuralPatterns\\Composite\\BookCategory.cs",
+              "ToolTip": "C:\\Users\\mirof\\Downloads\\StructuralPatterns\\StructuralPatterns\\Composite\\BookCategory.cs",
+              "RelativeToolTip": "StructuralPatterns\\Composite\\BookCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T13:02:35.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SearchAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\mirof\\Downloads\\StructuralPatterns\\StructuralPatterns\\Adapter\\SearchAdapter.cs",
+              "RelativeDocumentMoniker": "StructuralPatterns\\Adapter\\SearchAdapter.cs",
+              "ToolTip": "C:\\Users\\mirof\\Downloads\\StructuralPatterns\\StructuralPatterns\\Adapter\\SearchAdapter.cs",
+              "RelativeToolTip": "StructuralPatterns\\Adapter\\SearchAdapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T01:59:44.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OldSearchSystem.cs",
+              "DocumentMoniker": "C:\\Users\\mirof\\Downloads\\StructuralPatterns\\StructuralPatterns\\Adapter\\OldSearchSystem.cs",
+              "RelativeDocumentMoniker": "StructuralPatterns\\Adapter\\OldSearchSystem.cs",
+              "ToolTip": "C:\\Users\\mirof\\Downloads\\StructuralPatterns\\StructuralPatterns\\Adapter\\OldSearchSystem.cs",
+              "RelativeToolTip": "StructuralPatterns\\Adapter\\OldSearchSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T12:46:58.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "INewSearch.cs",
+              "DocumentMoniker": "C:\\Users\\mirof\\Downloads\\StructuralPatterns\\StructuralPatterns\\Adapter\\INewSearch.cs",
+              "RelativeDocumentMoniker": "StructuralPatterns\\Adapter\\INewSearch.cs",
+              "ToolTip": "C:\\Users\\mirof\\Downloads\\StructuralPatterns\\StructuralPatterns\\Adapter\\INewSearch.cs",
+              "RelativeToolTip": "StructuralPatterns\\Adapter\\INewSearch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T12:46:54.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PublisherFlyweight.cs",
+              "DocumentMoniker": "C:\\Users\\mirof\\Downloads\\StructuralPatterns\\StructuralPatterns\\Flyweight\\PublisherFlyweight.cs",
+              "RelativeDocumentMoniker": "StructuralPatterns\\Flyweight\\PublisherFlyweight.cs",
+              "ToolTip": "C:\\Users\\mirof\\Downloads\\StructuralPatterns\\StructuralPatterns\\Flyweight\\PublisherFlyweight.cs",
+              "RelativeToolTip": "StructuralPatterns\\Flyweight\\PublisherFlyweight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T12:56:23.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LibraryAdminProxy.cs",
+              "DocumentMoniker": "C:\\Users\\mirof\\Downloads\\StructuralPatterns\\StructuralPatterns\\Proxy\\LibraryAdminProxy.cs",
+              "RelativeDocumentMoniker": "StructuralPatterns\\Proxy\\LibraryAdminProxy.cs",
+              "ToolTip": "C:\\Users\\mirof\\Downloads\\StructuralPatterns\\StructuralPatterns\\Proxy\\LibraryAdminProxy.cs",
+              "RelativeToolTip": "StructuralPatterns\\Proxy\\LibraryAdminProxy.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T02:10:32.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mirof\\Downloads\\StructuralPatterns\\StructuralPatterns\\Program.cs",
+              "RelativeDocumentMoniker": "StructuralPatterns\\Program.cs",
+              "ToolTip": "C:\\Users\\mirof\\Downloads\\StructuralPatterns\\StructuralPatterns\\Program.cs",
+              "RelativeToolTip": "StructuralPatterns\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwCoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T02:34:25.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StructuralPatterns.csproj",
+              "DocumentMoniker": "C:\\Users\\mirof\\Downloads\\StructuralPatterns\\StructuralPatterns\\StructuralPatterns.csproj",
+              "RelativeDocumentMoniker": "StructuralPatterns\\StructuralPatterns.csproj",
+              "ToolTip": "C:\\Users\\mirof\\Downloads\\StructuralPatterns\\StructuralPatterns\\StructuralPatterns.csproj",
+              "RelativeToolTip": "StructuralPatterns\\StructuralPatterns.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-20T01:54:45.019Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 92,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
