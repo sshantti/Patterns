@@ -1,0 +1,14 @@
+C:\Users\mirof\source\repos\Creational_1\bin\Debug\net7.0\Creational_1.exe
+C:\Users\mirof\source\repos\Creational_1\bin\Debug\net7.0\Creational_1.deps.json
+C:\Users\mirof\source\repos\Creational_1\bin\Debug\net7.0\Creational_1.runtimeconfig.json
+C:\Users\mirof\source\repos\Creational_1\bin\Debug\net7.0\Creational_1.dll
+C:\Users\mirof\source\repos\Creational_1\bin\Debug\net7.0\Creational_1.pdb
+C:\Users\mirof\source\repos\Creational_1\obj\Debug\net7.0\Creational_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirof\source\repos\Creational_1\obj\Debug\net7.0\Creational_1.AssemblyInfoInputs.cache
+C:\Users\mirof\source\repos\Creational_1\obj\Debug\net7.0\Creational_1.AssemblyInfo.cs
+C:\Users\mirof\source\repos\Creational_1\obj\Debug\net7.0\Creational_1.csproj.CoreCompileInputs.cache
+C:\Users\mirof\source\repos\Creational_1\obj\Debug\net7.0\Creational_1.dll
+C:\Users\mirof\source\repos\Creational_1\obj\Debug\net7.0\refint\Creational_1.dll
+C:\Users\mirof\source\repos\Creational_1\obj\Debug\net7.0\Creational_1.pdb
+C:\Users\mirof\source\repos\Creational_1\obj\Debug\net7.0\Creational_1.genruntimeconfig.cache
+C:\Users\mirof\source\repos\Creational_1\obj\Debug\net7.0\ref\Creational_1.dll
