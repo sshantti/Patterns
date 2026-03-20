@@ -1,0 +1,42 @@
+C:\Users\Yauheni_Tretsyak\source\repos\Behavioral\Behavioral\bin\Debug\net8.0\Behavioral.exe
+C:\Users\Yauheni_Tretsyak\source\repos\Behavioral\Behavioral\bin\Debug\net8.0\Behavioral.deps.json
+C:\Users\Yauheni_Tretsyak\source\repos\Behavioral\Behavioral\bin\Debug\net8.0\Behavioral.runtimeconfig.json
+C:\Users\Yauheni_Tretsyak\source\repos\Behavioral\Behavioral\bin\Debug\net8.0\Behavioral.dll
+C:\Users\Yauheni_Tretsyak\source\repos\Behavioral\Behavioral\bin\Debug\net8.0\Behavioral.pdb
+C:\Users\Yauheni_Tretsyak\source\repos\Behavioral\Behavioral\obj\Debug\net8.0\Behavioral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yauheni_Tretsyak\source\repos\Behavioral\Behavioral\obj\Debug\net8.0\Behavioral.AssemblyInfoInputs.cache
+C:\Users\Yauheni_Tretsyak\source\repos\Behavioral\Behavioral\obj\Debug\net8.0\Behavioral.AssemblyInfo.cs
+C:\Users\Yauheni_Tretsyak\source\repos\Behavioral\Behavioral\obj\Debug\net8.0\Behavioral.csproj.CoreCompileInputs.cache
+C:\Users\Yauheni_Tretsyak\source\repos\Behavioral\Behavioral\obj\Debug\net8.0\Behavioral.dll
+C:\Users\Yauheni_Tretsyak\source\repos\Behavioral\Behavioral\obj\Debug\net8.0\refint\Behavioral.dll
+C:\Users\Yauheni_Tretsyak\source\repos\Behavioral\Behavioral\obj\Debug\net8.0\Behavioral.pdb
+C:\Users\Yauheni_Tretsyak\source\repos\Behavioral\Behavioral\obj\Debug\net8.0\Behavioral.genruntimeconfig.cache
+C:\Users\Yauheni_Tretsyak\source\repos\Behavioral\Behavioral\obj\Debug\net8.0\ref\Behavioral.dll
+C:\Users\Yauheni_Tretsyak\Desktop\EHU\Паттерны\3. Behavioral\Behavioral\Behavioral\bin\Debug\net8.0\Behavioral.exe
+C:\Users\Yauheni_Tretsyak\Desktop\EHU\Паттерны\3. Behavioral\Behavioral\Behavioral\bin\Debug\net8.0\Behavioral.deps.json
+C:\Users\Yauheni_Tretsyak\Desktop\EHU\Паттерны\3. Behavioral\Behavioral\Behavioral\bin\Debug\net8.0\Behavioral.runtimeconfig.json
+C:\Users\Yauheni_Tretsyak\Desktop\EHU\Паттерны\3. Behavioral\Behavioral\Behavioral\bin\Debug\net8.0\Behavioral.dll
+C:\Users\Yauheni_Tretsyak\Desktop\EHU\Паттерны\3. Behavioral\Behavioral\Behavioral\bin\Debug\net8.0\Behavioral.pdb
+C:\Users\Yauheni_Tretsyak\Desktop\EHU\Паттерны\3. Behavioral\Behavioral\Behavioral\obj\Debug\net8.0\Behavioral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yauheni_Tretsyak\Desktop\EHU\Паттерны\3. Behavioral\Behavioral\Behavioral\obj\Debug\net8.0\Behavioral.AssemblyInfoInputs.cache
+C:\Users\Yauheni_Tretsyak\Desktop\EHU\Паттерны\3. Behavioral\Behavioral\Behavioral\obj\Debug\net8.0\Behavioral.AssemblyInfo.cs
+C:\Users\Yauheni_Tretsyak\Desktop\EHU\Паттерны\3. Behavioral\Behavioral\Behavioral\obj\Debug\net8.0\Behavioral.csproj.CoreCompileInputs.cache
+C:\Users\Yauheni_Tretsyak\Desktop\EHU\Паттерны\3. Behavioral\Behavioral\Behavioral\obj\Debug\net8.0\Behavioral.dll
+C:\Users\Yauheni_Tretsyak\Desktop\EHU\Паттерны\3. Behavioral\Behavioral\Behavioral\obj\Debug\net8.0\refint\Behavioral.dll
+C:\Users\Yauheni_Tretsyak\Desktop\EHU\Паттерны\3. Behavioral\Behavioral\Behavioral\obj\Debug\net8.0\Behavioral.pdb
+C:\Users\Yauheni_Tretsyak\Desktop\EHU\Паттерны\3. Behavioral\Behavioral\Behavioral\obj\Debug\net8.0\Behavioral.genruntimeconfig.cache
+C:\Users\Yauheni_Tretsyak\Desktop\EHU\Паттерны\3. Behavioral\Behavioral\Behavioral\obj\Debug\net8.0\ref\Behavioral.dll
+C:\Users\mirof\Downloads\Behavioral\Behavioral\obj\Debug\net8.0\Behavioral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirof\Downloads\Behavioral\Behavioral\obj\Debug\net8.0\Behavioral.AssemblyInfoInputs.cache
+C:\Users\mirof\Downloads\Behavioral\Behavioral\obj\Debug\net8.0\Behavioral.AssemblyInfo.cs
+C:\Users\mirof\Downloads\Behavioral\Behavioral\obj\Debug\net8.0\Behavioral.csproj.CoreCompileInputs.cache
+C:\Users\mirof\Downloads\Behavioral\Behavioral\obj\Debug\net8.0\Behavioral.dll
+C:\Users\mirof\Downloads\Behavioral\Behavioral\obj\Debug\net8.0\refint\Behavioral.dll
+C:\Users\mirof\Downloads\Behavioral\Behavioral\obj\Debug\net8.0\Behavioral.pdb
+C:\Users\mirof\Downloads\Behavioral\Behavioral\bin\Debug\net8.0\Behavioral.exe
+C:\Users\mirof\Downloads\Behavioral\Behavioral\bin\Debug\net8.0\Behavioral.deps.json
+C:\Users\mirof\Downloads\Behavioral\Behavioral\bin\Debug\net8.0\Behavioral.runtimeconfig.json
+C:\Users\mirof\Downloads\Behavioral\Behavioral\bin\Debug\net8.0\Behavioral.dll
+C:\Users\mirof\Downloads\Behavioral\Behavioral\bin\Debug\net8.0\Behavioral.pdb
+C:\Users\mirof\Downloads\Behavioral\Behavioral\obj\Debug\net8.0\Behavioral.genruntimeconfig.cache
+C:\Users\mirof\Downloads\Behavioral\Behavioral\obj\Debug\net8.0\ref\Behavioral.dll

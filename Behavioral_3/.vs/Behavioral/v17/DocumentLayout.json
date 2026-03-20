@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mirof\\Downloads\\Behavioral\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8447D690-8FF7-457B-9955-DB4BF158C0B3}|Behavioral\\Behavioral.csproj|c:\\users\\mirof\\downloads\\behavioral\\behavioral\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8447D690-8FF7-457B-9955-DB4BF158C0B3}|Behavioral\\Behavioral.csproj|solutionrelative:behavioral\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8447D690-8FF7-457B-9955-DB4BF158C0B3}|Behavioral\\Behavioral.csproj|c:\\users\\mirof\\downloads\\behavioral\\behavioral\\visitor\\shapes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8447D690-8FF7-457B-9955-DB4BF158C0B3}|Behavioral\\Behavioral.csproj|solutionrelative:behavioral\\visitor\\shapes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8447D690-8FF7-457B-9955-DB4BF158C0B3}|Behavioral\\Behavioral.csproj|c:\\users\\mirof\\downloads\\behavioral\\behavioral\\visitor\\ivisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8447D690-8FF7-457B-9955-DB4BF158C0B3}|Behavioral\\Behavioral.csproj|solutionrelative:behavioral\\visitor\\ivisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8447D690-8FF7-457B-9955-DB4BF158C0B3}|Behavioral\\Behavioral.csproj|c:\\users\\mirof\\downloads\\behavioral\\behavioral\\visitor\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8447D690-8FF7-457B-9955-DB4BF158C0B3}|Behavioral\\Behavioral.csproj|solutionrelative:behavioral\\visitor\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8447D690-8FF7-457B-9955-DB4BF158C0B3}|Behavioral\\Behavioral.csproj|c:\\users\\mirof\\downloads\\behavioral\\behavioral\\observer\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8447D690-8FF7-457B-9955-DB4BF158C0B3}|Behavioral\\Behavioral.csproj|solutionrelative:behavioral\\observer\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8447D690-8FF7-457B-9955-DB4BF158C0B3}|Behavioral\\Behavioral.csproj|c:\\users\\mirof\\downloads\\behavioral\\behavioral\\observer\\icarsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8447D690-8FF7-457B-9955-DB4BF158C0B3}|Behavioral\\Behavioral.csproj|solutionrelative:behavioral\\observer\\icarsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8447D690-8FF7-457B-9955-DB4BF158C0B3}|Behavioral\\Behavioral.csproj|c:\\users\\mirof\\downloads\\behavioral\\behavioral\\observer\\container.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8447D690-8FF7-457B-9955-DB4BF158C0B3}|Behavioral\\Behavioral.csproj|solutionrelative:behavioral\\observer\\container.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8447D690-8FF7-457B-9955-DB4BF158C0B3}|Behavioral\\Behavioral.csproj|c:\\users\\mirof\\downloads\\behavioral\\behavioral\\observer\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8447D690-8FF7-457B-9955-DB4BF158C0B3}|Behavioral\\Behavioral.csproj|solutionrelative:behavioral\\observer\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8447D690-8FF7-457B-9955-DB4BF158C0B3}|Behavioral\\Behavioral.csproj|c:\\users\\mirof\\downloads\\behavioral\\behavioral\\chainofresponsibility\\validationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8447D690-8FF7-457B-9955-DB4BF158C0B3}|Behavioral\\Behavioral.csproj|solutionrelative:behavioral\\chainofresponsibility\\validationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8447D690-8FF7-457B-9955-DB4BF158C0B3}|Behavioral\\Behavioral.csproj|c:\\users\\mirof\\downloads\\behavioral\\behavioral\\chainofresponsibility\\positivevaluehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8447D690-8FF7-457B-9955-DB4BF158C0B3}|Behavioral\\Behavioral.csproj|solutionrelative:behavioral\\chainofresponsibility\\positivevaluehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8447D690-8FF7-457B-9955-DB4BF158C0B3}|Behavioral\\Behavioral.csproj|c:\\users\\mirof\\downloads\\behavioral\\behavioral\\chainofresponsibility\\maxlengthhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8447D690-8FF7-457B-9955-DB4BF158C0B3}|Behavioral\\Behavioral.csproj|solutionrelative:behavioral\\chainofresponsibility\\maxlengthhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8447D690-8FF7-457B-9955-DB4BF158C0B3}|Behavioral\\Behavioral.csproj|c:\\users\\mirof\\downloads\\behavioral\\behavioral\\visitor\\volumevisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8447D690-8FF7-457B-9955-DB4BF158C0B3}|Behavioral\\Behavioral.csproj|solutionrelative:behavioral\\visitor\\volumevisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICarSubject.cs",
+              "DocumentMoniker": "C:\\Users\\mirof\\Downloads\\Behavioral\\Behavioral\\Observer\\ICarSubject.cs",
+              "RelativeDocumentMoniker": "Behavioral\\Observer\\ICarSubject.cs",
+              "ToolTip": "C:\\Users\\mirof\\Downloads\\Behavioral\\Behavioral\\Observer\\ICarSubject.cs",
+              "RelativeToolTip": "Behavioral\\Observer\\ICarSubject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T04:53:47.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Container.cs",
+              "DocumentMoniker": "C:\\Users\\mirof\\Downloads\\Behavioral\\Behavioral\\Observer\\Container.cs",
+              "RelativeDocumentMoniker": "Behavioral\\Observer\\Container.cs",
+              "ToolTip": "C:\\Users\\mirof\\Downloads\\Behavioral\\Behavioral\\Observer\\Container.cs",
+              "RelativeToolTip": "Behavioral\\Observer\\Container.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T04:32:10.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IObserver.cs",
+              "DocumentMoniker": "C:\\Users\\mirof\\Downloads\\Behavioral\\Behavioral\\Observer\\IObserver.cs",
+              "RelativeDocumentMoniker": "Behavioral\\Observer\\IObserver.cs",
+              "ToolTip": "C:\\Users\\mirof\\Downloads\\Behavioral\\Behavioral\\Observer\\IObserver.cs",
+              "RelativeToolTip": "Behavioral\\Observer\\IObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T04:29:54.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mirof\\Downloads\\Behavioral\\Behavioral\\Program.cs",
+              "RelativeDocumentMoniker": "Behavioral\\Program.cs",
+              "ToolTip": "C:\\Users\\mirof\\Downloads\\Behavioral\\Behavioral\\Program.cs",
+              "RelativeToolTip": "Behavioral\\Program.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAEUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T04:32:45.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MaxLengthHandler.cs",
+              "DocumentMoniker": "C:\\Users\\mirof\\Downloads\\Behavioral\\Behavioral\\ChainOfResponsibility\\MaxLengthHandler.cs",
+              "RelativeDocumentMoniker": "Behavioral\\ChainOfResponsibility\\MaxLengthHandler.cs",
+              "ToolTip": "C:\\Users\\mirof\\Downloads\\Behavioral\\Behavioral\\ChainOfResponsibility\\MaxLengthHandler.cs",
+              "RelativeToolTip": "Behavioral\\ChainOfResponsibility\\MaxLengthHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T04:29:26.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PositiveValueHandler.cs",
+              "DocumentMoniker": "C:\\Users\\mirof\\Downloads\\Behavioral\\Behavioral\\ChainOfResponsibility\\PositiveValueHandler.cs",
+              "RelativeDocumentMoniker": "Behavioral\\ChainOfResponsibility\\PositiveValueHandler.cs",
+              "ToolTip": "C:\\Users\\mirof\\Downloads\\Behavioral\\Behavioral\\ChainOfResponsibility\\PositiveValueHandler.cs",
+              "RelativeToolTip": "Behavioral\\ChainOfResponsibility\\PositiveValueHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T04:29:06.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ValidationHandler.cs",
+              "DocumentMoniker": "C:\\Users\\mirof\\Downloads\\Behavioral\\Behavioral\\ChainOfResponsibility\\ValidationHandler.cs",
+              "RelativeDocumentMoniker": "Behavioral\\ChainOfResponsibility\\ValidationHandler.cs",
+              "ToolTip": "C:\\Users\\mirof\\Downloads\\Behavioral\\Behavioral\\ChainOfResponsibility\\ValidationHandler.cs",
+              "RelativeToolTip": "Behavioral\\ChainOfResponsibility\\ValidationHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T04:28:41.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\mirof\\Downloads\\Behavioral\\Behavioral\\Observer\\Car.cs",
+              "RelativeDocumentMoniker": "Behavioral\\Observer\\Car.cs",
+              "ToolTip": "C:\\Users\\mirof\\Downloads\\Behavioral\\Behavioral\\Observer\\Car.cs",
+              "RelativeToolTip": "Behavioral\\Observer\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T04:31:43.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IShape.cs",
+              "DocumentMoniker": "C:\\Users\\mirof\\Downloads\\Behavioral\\Behavioral\\Visitor\\IShape.cs",
+              "RelativeDocumentMoniker": "Behavioral\\Visitor\\IShape.cs",
+              "ToolTip": "C:\\Users\\mirof\\Downloads\\Behavioral\\Behavioral\\Visitor\\IShape.cs",
+              "RelativeToolTip": "Behavioral\\Visitor\\IShape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T04:27:04.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IVisitor.cs",
+              "DocumentMoniker": "C:\\Users\\mirof\\Downloads\\Behavioral\\Behavioral\\Visitor\\IVisitor.cs",
+              "RelativeDocumentMoniker": "Behavioral\\Visitor\\IVisitor.cs",
+              "ToolTip": "C:\\Users\\mirof\\Downloads\\Behavioral\\Behavioral\\Visitor\\IVisitor.cs",
+              "RelativeToolTip": "Behavioral\\Visitor\\IVisitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T08:03:15.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shapes.cs",
+              "DocumentMoniker": "C:\\Users\\mirof\\Downloads\\Behavioral\\Behavioral\\Visitor\\Shapes.cs",
+              "RelativeDocumentMoniker": "Behavioral\\Visitor\\Shapes.cs",
+              "ToolTip": "C:\\Users\\mirof\\Downloads\\Behavioral\\Behavioral\\Visitor\\Shapes.cs",
+              "RelativeToolTip": "Behavioral\\Visitor\\Shapes.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA0wCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T04:27:37.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VolumeVisitor.cs",
+              "DocumentMoniker": "C:\\Users\\mirof\\Downloads\\Behavioral\\Behavioral\\Visitor\\VolumeVisitor.cs",
+              "RelativeDocumentMoniker": "Behavioral\\Visitor\\VolumeVisitor.cs",
+              "ToolTip": "C:\\Users\\mirof\\Downloads\\Behavioral\\Behavioral\\Visitor\\VolumeVisitor.cs",
+              "RelativeToolTip": "Behavioral\\Visitor\\VolumeVisitor.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T04:27:57.467Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 92,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
